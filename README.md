@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Smit Aghera 🙋🏻‍♂️</h1>
-<h3 align="center">A passionate Android & Flutter Developer.</h3>
+<h1 align="left">Hi, I'm Smit Aghera 🙋🏻‍♂️</h1>
+<h3 align="left">A passionate Android & Flutter Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
