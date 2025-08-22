@@ -4,6 +4,11 @@
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhkcXZqa2wxNTdnMTVwMXNnaHh2djZ4dm5vMHhveXJ5Y3V3enJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMcAgp44BHeKKAh9ng/giphy.gif" width="100">
 
+<br/>
+
+![alt=""](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhkcXZqa2wxNTdnMTVwMXNnaHh2djZ4dm5vMHhveXJ5Y3V3enJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMcAgp44BHeKKAh9ng/giphy.gif)
+|--|
+
 <h3><b>I'm enthusiastic Android & Flutter Developer.</b></h3>
 
 
