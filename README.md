@@ -12,9 +12,7 @@
 <br/>
 
  **Technologies**
- <img alt="Flutter" width="50px" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
- |<img alt="Android Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="React" width="40px" src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/>|<img alt="Redux" width="40px" src="https://img.icons8.com/color/480/000000/redux.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src="https://img.icons8.com/color/480/000000/css3.png"/>
- |--|--|--|--|--|--|--|--|--|
+ <img alt="Android Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="50px" src="https://img.icons8.com/color/48/flutter.png"/>|--|--|--|--|
 <br/>
 
  **Programing Language**
