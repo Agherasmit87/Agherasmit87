@@ -2,7 +2,7 @@
 <h1>Hi There, I'm <a href="https://www.Smit Aghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️</h1> 
 
 <br/><br/>
-<b>I'm Android & Flutter Developer.</b> 
+<b>I'm enthusiastic Android & Flutter Developer.</b> 
 <br/><br/><br/>
 <h1>Skills</h1>
 
@@ -15,8 +15,8 @@
 
  **Programing Language**
 
-<img alt="Java" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>|<img alt="Kotlin" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
- |--|--|
+<img alt="Java" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>|<img alt="Kotlin" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>|<img alt="dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">|
+ |--|--|--|
 <br/>
 
  **Tools**
@@ -31,4 +31,3 @@
 [<img align="left" alt="Instagram - Dhaval Bheda" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/smit_7778)
 <br/>
 <img src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
-
