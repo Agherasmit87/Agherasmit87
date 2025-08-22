@@ -1,9 +1,9 @@
 
 <h1>Hi There, I'm <a href="https://www.Smit Aghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️</h1> 
 
-<br/><br/>
+<br/>
 <b>I'm enthusiastic Android & Flutter Developer.</b> 
-<br/><br/><br/>
+<br/><br/>
 <h1>Skills</h1>
 
  **Technologies**
