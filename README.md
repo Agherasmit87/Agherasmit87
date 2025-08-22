@@ -9,10 +9,13 @@
 <br/><br/>
 <br/>
 <h1><img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA0MTA0dmtuemt0dmFpZ2Z0Zzdoc252anlpeGU5ZmY1MTlvbnJ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/18CBSt1ypLRJZCCDyy/giphy.gif"  style="padding-left:20px" width="75"> Skills</h1>
-<br/>
+
 
  **Technologies**
- <img alt="Android Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="50px" src="https://img.icons8.com/color/48/flutter.png"/>|--|--|--|--|
+
+<img alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="40px" src="https://img.icons8.com/color/48/flutter.png"/> 
+|--|--|
+
 <br/>
 
  **Programing Language**
