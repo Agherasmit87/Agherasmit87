@@ -1,12 +1,43 @@
-<h1 align="center">Hi, I'm <a href="https://www.smitaghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️</h1>
-<br/><br/>
-<img align='right' src="https://www.cleanpng.com/png-web-development-software-development-programmer-co-2240464/" width="230">
-<h3 align="center">I'm enthusiastic Android & Flutter Developer.</h3>
-<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h1>Hi There, I'm <a href="https://www.Smit Aghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JsbTRlZHVuMWg3bW5vOXB6eXB4djk0d2t6MGxkaGlwbWVobmM1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mnysSSGaU4KYVf4ZpD/giphy.gif" width="200">
+<br/>
+<br/>
+<br/>
+</h1> 
+
+
+
+<br/><br/>
+<b>I'm enthusiastic Android & Flutter Developer.</b> 
+<br/><br/>
+<br/>
+<h1><img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA0MTA0dmtuemt0dmFpZ2Z0Zzdoc252anlpeGU5ZmY1MTlvbnJ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/18CBSt1ypLRJZCCDyy/giphy.gif"  style="padding-left:20px" width="75"> Skills</h1>
+<br/>
+
+ **Technologies**
+ <img alt="Flutter" width="50px" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+ |<img alt="Android Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="React" width="40px" src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/>|<img alt="Redux" width="40px" src="https://img.icons8.com/color/480/000000/redux.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src="https://img.icons8.com/color/480/000000/css3.png"/>
+ |--|--|--|--|--|--|--|--|--|
+<br/>
+
+ **Programing Language**
+
+<img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/>|<img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/>|<img alt="Javascript" width="40px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png"/>|<img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>|<img alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>|<img alt="Ruby" width="40px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
+ |--|--|--|--|--|--|
+<br/>
+
+ **Tools**
+ <img alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>|<img alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>|<img alt="Git Hub" width="40px" src="https://img.icons8.com/fluent/240/000000/github.png"/>|<img alt="Postman" width="40px" src="https://img.icons8.com/dusk/512/000000/postman-api.png"/>|<img alt="MS Office" width="40px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"/>
+ |--|--|--|--|--|
+ <br/>
+ <h1>Get In Touch</h1>
+
+[<img align="left" alt="Dhaval Bheda" width="40px"  src="https://img.icons8.com/cotton/64/000000/earth-planet--v2.png"/>](https://www.dhavalbheda.tech) 
+[<img align="left" alt="LinkedIn - Dhaval Bheda" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>](https://www.linkedin.com/in/dhavalbheda) 
+[<img align="left" alt="Email - Dhaval Bheda" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/upload-mail.png" />](mailto:dhavalbhedadb@gmail.com) 
+[<img align="left" alt="Hackerrank - Dhaval Bheda" width="40px" src="https://img.icons8.com/windows/512/000000/hackerrank.png"/>](https://hackerrank.com/dhavalbheda)
+[<img align="left" alt="Instagram - Dhaval Bheda" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/dhaval__bheda)
+<br/>
+<img src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
