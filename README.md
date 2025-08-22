@@ -1,12 +1,12 @@
 
 <h1>Hi There, I'm <a href="https://www.Smit Aghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️</h1> 
-
+<h3><b>I'm enthusiastic Android & Flutter Developer.</b></h3>
 <br/>
-<h4><b>I'm enthusiastic Android & Flutter Developer.</b></h4>
-<br/><br/>
 <h1>Skills</h1>
 
  **Technologies**
+ <br/>
+<br/>
 
 <img alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="40px" src="https://img.icons8.com/color/48/flutter.png"/> 
 |--|--|
