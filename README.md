@@ -1,6 +1,8 @@
-<h1 align="left">Hi, I'm Smit Aghera 🙋🏻‍♂️</h1>
-<h3 align="left">A passionate Android & Flutter Developer.</h3>
-
+<h1 align="center">Hi, I'm <a href="https://www.smitaghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️</h1>
+<br/><br/>
+<img align='right' src="https://www.cleanpng.com/png-web-development-software-development-programmer-co-2240464/" width="230">
+<h3 align="center">I'm enthusiastic Android & Flutter Developer.</h3>
+<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
