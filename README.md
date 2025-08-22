@@ -1,10 +1,5 @@
 
 <h1>Hi There, I'm <a href="https://www.Smit Aghera.dev" target="_blank">Smit Aghera</a> 🙋🏻‍♂️
-
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JsbTRlZHVuMWg3bW5vOXB6eXB4djk0d2t6MGxkaGlwbWVobmM1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mnysSSGaU4KYVf4ZpD/giphy.gif" width="200">
-<br/>
-<br/>
-<br/>
 </h1> 
 
 
