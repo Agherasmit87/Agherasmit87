@@ -9,8 +9,6 @@
 <h1>Skills</h1>
 
  **Technologies**
- <br/>
-<br/>
 
 <img alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="40px" src="https://img.icons8.com/color/48/flutter.png"/> 
 |--|--|
