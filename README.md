@@ -8,7 +8,7 @@
 
  **Technologies**
 
-<img alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="35px" src="https://img.icons8.com/color/48/flutter.png"/> 
+<img alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"/>|<img alt="Flutter" width="30px" src="https://img.icons8.com/color/48/flutter.png"/> 
 |--|--|
 
 <br/>
