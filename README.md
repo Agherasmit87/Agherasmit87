@@ -30,4 +30,4 @@
 [<img align="left" alt="Email - Dhaval Bheda" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/upload-mail.png" />](mailto:smit4180@gmail.com) 
 [<img align="left" alt="Instagram - Dhaval Bheda" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/smit_7778)
 <br/>
-<img src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
+<img align="Center" src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
