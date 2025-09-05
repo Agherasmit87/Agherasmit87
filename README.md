@@ -28,8 +28,6 @@
 [<img align="left" alt="Smit Aghera" width="40px" src="https://img.icons8.com/cotton/64/000000/earth-planet--v2.png"/>](https://www.smitaghera7778.com)
 [<img align="left" alt="LinkedIn - Smit Aghera" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>](https://www.linkedin.com/in/smitaghera) 
 [<img align="left" alt="Email - Smit Aghera" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/upload-mail.png" />](mailto:smit4180@gmail.com) 
-[<img align="left" alt="Instagram - Smit Aghera" width="45px" src="https://icons8.com/icon/wrwXlOVAFfeY/instagram"/>](https://www.instagram.com/smit_7778)
+[<img align="left" alt="Instagram - Smit Aghera" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/smit_7778)
 <br/>
-https://icons8.com/icon/wrwXlOVAFfeY/instagram
-
 <img align="Center" src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
